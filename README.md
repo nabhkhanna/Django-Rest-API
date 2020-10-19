@@ -91,4 +91,4 @@ Contributions are what make the open source community such an amazing place to b
 
 Nabh Khanna - nabh.khanna@hotmail.com
 
-Project Link: [https://github.com/nabhkhanna/MentorStory](https://github.com/nabhkhanna/MentorStory)
+Project Link: [https://github.com/nabhkhanna/Django-Rest-API.git](https://github.com/nabhkhanna/Django-Rest-API.git)
