@@ -30,12 +30,10 @@ Features:
 * taskUpdate: Updates a task with the respective primary key(pk)
 * taskDelete: Deletes a task with the respective primary key(pk)
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Django](https://www.djangoproject.com/)
-* [Django-rest framework] (https://www.django-rest-framework.org/)
+* [Django-rest framework](https://www.django-rest-framework.org/)
 
 
 
