@@ -1,4 +1,4 @@
-# Django-Rest-API
+# Tasking API
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
